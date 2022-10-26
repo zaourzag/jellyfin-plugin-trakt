@@ -13,12 +13,12 @@ public static class TraktUris
     /// <summary>
     /// The client id.
     /// </summary>
-    public const string ClientId = "bfdd2e032c30c35b368f97ef4ec81587b899bcb028b91a1d4ba5589a4b6a7267";
+    public const string ClientId = "037b090935aec832129591da8c77127fd622e9ae93a454fcb479ad7f1d6e5377";
 
     /// <summary>
     /// The client secret.
     /// </summary>
-    public const string ClientSecret = "bf9fce37cf45c1de91da009e7ac6fca905a35d7a718bf65a52f92199073a2503";
+    public const string ClientSecret = "338abc43639e7a9853631ab4d02ee4589b9fd7d21c0afd9cb66984529e194725";
 
     /// <summary>
     /// The device code URI.

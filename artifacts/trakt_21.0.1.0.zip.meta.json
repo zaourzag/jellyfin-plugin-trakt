@@ -1,0 +1,13 @@
+{
+    "category": "General",
+    "changelog": "### New features and improvements ###\n- Do not hammer the API (#175) @Shadowghost\n\n### Bug Fixes ###\n- Do not hammer the API (#175) @Shadowghost\n- Prevent setting local item as unwatched on sync (#169) @Shadowghost\n\n### Code or Repo Maintenance ###\n- Add more info to debug logs (#171) @sambartik",
+    "description": "Record your watched media with Trakt.\n",
+    "guid": "4fe3201e-d6ae-4f2e-8917-e12bda571281",
+    "imageUrl": "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-trakt.png",
+    "name": "Trakt",
+    "overview": "Record your watched media with Trakt",
+    "owner": "jellyfin",
+    "targetAbi": "10.8.5.0",
+    "timestamp": "2022-10-26T12:53:13Z",
+    "version": "21.0.1.0"
+}
